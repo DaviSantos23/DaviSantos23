@@ -1,4 +1,3 @@
-## Hi there 👋
 
 -----
 
@@ -39,17 +38,15 @@
 
 -----
 
-<!--
-**DaviSantos23/DaviSantos23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍🎓Sobre mim:
 
-Here are some ideas to get you started:
+<div align="justify">
+  
+Me chamo Davi Érico dos Santos, tenho 21 anos. Sou Técnico em Informática para Internet - Formado no Cotemig - em 2021. Atualmente estou cursando o 4º período de Engenharia de Software na PucMinas. Sou uma pessoa proativa, esforçada, paciente e apaixonada por tecnologia. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Antes de entrar na faculdade, tive a oportunidade de trabalhar durante um ano em uma empresa de tecnologia que desenvolvia soluções mobile e web para automação da coleta de leite. Iniciei atuando na área de suporte, solucionando o problema dos clientes, acompanhando a utilização dos nossos serviços, auxiliando-os com o que fosse necessário dentro das nossas soluções, entre outras atuações. 
+
+Mais tarde, passei a atuar na área de Customer Success. Nesta posição, fiquei responsável por entrar em contato com alguns dos clientes já contratados e alguns dos novos clientes que estavam aderindo nossos sistemas, auxiliando-os com nossos serviços, passando treinamentos, realizando reuniões explicativas, entre outras ajudas. Através destes meios de atuação, buscava solucionar as suas dores do cliente e buscar o sucesso do cliente. Após este período, decidi ir atrás de uma especialização na área de tecnologia onde acabei encontrando o curso que irei seguir na minha carreira profissional. 
+
+Outra curiosidade ao meu respeito e que impactou muito minha vida foi com o esporte. Joguei basquete dos 12 aos 18 anos e tive diversas experiências, viagens com o time, viagens para realizar peneiras, toda a dedicação necessária para se tornar um atleta de alto rendimento e  uma breve passagem pelo time profissional de basquete do Cruzeiro.
+</div>
