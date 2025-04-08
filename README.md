@@ -2,9 +2,9 @@
 
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/DaviSantos23/DaviSantos23/blob/main/img/github-header-image.png"/>
-</div>
+<p align="center">
+  <img src="https://github.com/DaviSantos23/DaviSantos23/blob/main/img/github-header-image.png" width="100%"/>
+</p>
 
 -----
 
@@ -34,7 +34,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 34 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Davi Érico</code>, tenho 21 anos, moro em BH e estudo tecnologia desde os 15 anos. Atualmente sou <code>estudante</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i>  ‍🎓<br />
 </div>
 
 -----
